@@ -57,6 +57,3 @@ drive.mount('/content/drive')
 - PIL (Python Imaging Library)
 
 ---
-
-İstersen buna bir de küçük bir "Future Work" veya "Possible Improvements" bölümü ekleyebiliriz (mesela model fine-tuning veya daha büyük veri seti kullanımı gibi).  
-İster misin? 🎯
